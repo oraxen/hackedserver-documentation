@@ -62,6 +62,6 @@ description: How to use the "Others" section from the settings to add your own c
 ```
 
 {% hint style="info" %}
-&#x20;You can also read [this little article](https://medium.com/@th0rgal/how-to-detect-the-undetectable-hacked-client-aristois-ad14562e357e?source=friends\_link\&sk=2221d97e86189e372bd92c8a742cf477) on medium that explains my approach with examples
+&#x20;You can also read [this little article](https://medium.com/@th0rgal/how-to-detect-the-undetectable-hacked-client-aristois-ad14562e357e?source=friends_link\&sk=2221d97e86189e372bd92c8a742cf477) on medium that explains my approach with examples
 {% endhint %}
 

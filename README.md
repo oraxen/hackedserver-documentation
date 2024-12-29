@@ -28,7 +28,7 @@ Start by installing HackedServer on every spigot servers as explained previously
 \
 Then drop HackedServer.jar (it's the same jar as for spigot) to your bungeecord /plugins/ folder and restart it. There should be only a simple log saying that the plugin is well loaded since its main feature is fixing bungee incompatibility (it also brings some debug features):
 
-![](.gitbook/assets/logs\_bungee.png)
+![](.gitbook/assets/logs_bungee.png)
 
 {% hint style="info" %}
 If you are using a proxy like waterfall or travertine, set`forge_support: false` in config.yml
